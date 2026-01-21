@@ -1,0 +1,47 @@
+Drink_Type,Category,Item,Price_INR
+Chai,Classic & Popular,Masala Chai,25
+Chai,Classic & Popular,Adrak Chai,30
+Chai,Classic & Popular,Elaichi Chai,30
+Chai,Classic & Popular,Cutting Chai,20
+Chai,Classic & Popular,Ginger Masala Chai,35
+
+Chai,Premium & Special,Kesar Chai,60
+Chai,Premium & Special,Kashmiri Kahwa,70
+Chai,Premium & Special,Irani Chai,50
+Chai,Premium & Special,Saffron Almond Chai,80
+Chai,Premium & Special,Rose Chai,55
+
+Chai,Herbal & Healthy,Tulsi Chai,40
+Chai,Herbal & Healthy,Lemongrass Chai,45
+Chai,Herbal & Healthy,Green Tea,40
+Chai,Herbal & Healthy,Chamomile Tea,50
+Chai,Herbal & Healthy,Mint Chai,35
+
+Chai,Fusion & Fun,Chocolate Chai,60
+Chai,Fusion & Fun,Vanilla Chai,55
+Chai,Fusion & Fun,Caramel Chai,65
+
+Coffee,Classic Coffee,Espresso,90
+Coffee,Classic Coffee,Americano,100
+Coffee,Classic Coffee,Filter Coffee,70
+Coffee,Classic Coffee,Black Coffee,80
+
+Coffee,Milk Based,Cappuccino,120
+Coffee,Milk Based,Latte,130
+Coffee,Milk Based,Flat White,140
+Coffee,Milk Based,Mocha,150
+
+Coffee,Dessert & Specialty Coffee,Affogato,160
+Coffee,Dessert & Specialty Coffee,Irish Coffee,180
+Coffee,Dessert & Specialty Coffee,Caramel Macchiato,170
+Coffee,Dessert & Specialty Coffee,Vanilla Latte,160
+Coffee,Dessert & Specialty Coffee,Hazelnut Coffee,165
+
+Coffee,Healthy / Low Caffeine Options,Decaf Coffee,110
+Coffee,Healthy / Low Caffeine Options,Chicory Coffee,100
+Coffee,Healthy / Low Caffeine Options,Bulletproof Coffee,190
+
+Coffee,Strong / Premium Brews,Double Espresso,130
+Coffee,Strong / Premium Brews,Ristretto,140
+Coffee,Strong / Premium Brews,Turkish Coffee,150
+Coffee,Strong / Premium Brews,Cold Brew,160
