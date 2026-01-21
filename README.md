@@ -113,8 +113,10 @@ This reinforced the importance of **data correctness over UI assumptions**.
 ```bash
 pip install streamlit (Pandas come with streamlit by default)
 
-2. Open terminal, go to the project and then run
+```
+2. Open Terminal and paste
+```bash
+streamlit run Home.py
+```
 
-    streamlit run Home.py
-
-Thanking You for visiting this project
+Thank you for visiting my app
