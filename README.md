@@ -3,6 +3,7 @@
 A multi-page **Streamlit application** for managing beverage orders and analyzing sales data.  
 The project focuses on **correct data handling, aggregation logic, and time-based analytics**, rather than UI gimmicks.
 
+You can check this app from this link👉 - https://beverage-ordering-analytics.streamlit.app/
 ---
 
 ## 📌 Project Overview
