@@ -22,8 +22,7 @@ orders_df = pd.read_csv("data/orders.csv")
 refined_df = orders_df.copy()
 refined_df["Order Placed"] = pd.to_datetime(
     refined_df["Order Placed"].astype(str).str.strip(),
-    errors="coerce",
-    infer_datetime_format=True
+    errors="coerce"
 )
 
 st.divider()
